@@ -1,0 +1,39 @@
+{
+  "name": "senecateste",
+  "version": "1.0.0",
+  "description": "Teste framework seneca",
+  "main": "index.js",
+  "dependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-core": "^6.26.0",
+    "babel-polyfill": "^6.26.0",
+    "babel-preset-env": "^1.6.1",
+    "babel-register": "^6.26.0",
+    "seneca": "^3.4.3"
+  },
+  "devDependencies": {
+    "babel-eslint": "^8.2.2",
+    "eslint": "^4.19.1",
+    "eslint-config-airbnb-base": "^12.1.0",
+    "eslint-plugin-babel": "^5.0.0",
+    "eslint-plugin-import": "^2.11.0",
+    "nodemon": "^1.17.3"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Johnys/senecateste.git"
+  },
+  "keywords": [
+    "seneca"
+  ],
+  "author": "Johnys",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Johnys/senecateste/issues"
+  },
+  "homepage": "https://github.com/Johnys/senecateste#readme"
+}
