@@ -1,7 +1,7 @@
-# Teste do Serena
+# Teste do Seneca
 
 Projeto básico para teste da lib serena.
-Ela compreende a configuração do serena com o express, e persistencia dos dados com o mongodb.
+Ela compreende a configuração do seneca com o express e persistência dos dados com o mongodb.
 
 ## Getting Started
 
