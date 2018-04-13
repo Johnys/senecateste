@@ -1,7 +1,6 @@
-# Teste do Seneca
+# Estrutura de projeto com Seneca
 
-Projeto básico para teste da lib seneca.
-Ela compreende a configuração do seneca com o express e persistência dos dados com o mongodb.
+Provem uma estrutura basica de uma API utilizando o seneca, express e mondodb.
 
 ## Getting Started
 
