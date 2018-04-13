@@ -1,6 +1,6 @@
 # Teste do Seneca
 
-Projeto básico para teste da lib serena.
+Projeto básico para teste da lib seneca.
 Ela compreende a configuração do seneca com o express e persistência dos dados com o mongodb.
 
 ## Getting Started
