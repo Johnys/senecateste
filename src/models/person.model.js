@@ -39,7 +39,7 @@ PersonSchema.statics.updateByUUID = async function updateByUUID(person) {
     personDB.set(person);
     return personDB.save();
   }
-  throw new Error('Person not founded');
+  throw new Error('Person not found');
 };
 
 PersonSchema.statics.findByParams = function findByParams(params) {
